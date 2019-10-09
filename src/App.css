@@ -1,22 +1,16 @@
-.App {
-  text-align: center;
+table  thead  th {
+  text-transform: uppercase;
+  font-weight: bold;
+  font-size: 18px;
+  white-space: nowrap;
 }
 
-.App-logo {
-  height: 40vmin;
+table  tbody  td {
+  color: #c2c2c2;
+  font-size: 14px;
+  white-space: nowrap;
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
-}
-
-.App-link {
-  color: #09d3ac;
+.right{
+  float: right;
 }
